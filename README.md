@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christin Kiyeon Kim
 
-I'm a professional cellist and dedicated music educator based in Chicago —  
+I'm a professional cellist and dedicated music educator based in Chicago  
 and currently transitioning into a career in IT, focusing on automation, Python, Jira, and SQL.
 
 With years of experience performing and teaching, I bring a disciplined, detail-oriented approach to every project.  
