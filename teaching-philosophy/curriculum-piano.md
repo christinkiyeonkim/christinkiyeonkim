@@ -57,7 +57,7 @@
 ### 🎯 Level Six
 
 **Materials**
-- Czerny – Op. 599 or Op. 849  
+- Czerny – Op. 139 
 - Hanon  
 - Sonatinas – Expanded (Kuhlau, Beethoven)  
 - *Easy Classics to Moderns*
@@ -67,7 +67,7 @@
 ### 🎯 Level Seven
 
 **Materials**
-- Czerny – Op. 299  
+- Czerny – Op. 849  
 - Hanon  
 - Sonatinas – Beethoven, Clementi  
 - J.S. Bach – Inventions  
