@@ -38,7 +38,7 @@ You can find examples of my learning progress and practice in repositories like:
 
 ## 🔗 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/christin-kim-25b89a141/))  
+- [LinkedIn](https://www.linkedin.com/in/christin-kim-25b89a141/)
 - [GitHub](https://github.com/christinkiyeonkim)  
 - [GitLab](https://gitlab.com/christinkiyeonkim)  
 - [Chicago Music Lessons – Christin Kim](https://www.chicagomusiclessons.com/christinkim)  
