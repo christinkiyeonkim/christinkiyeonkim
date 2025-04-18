@@ -1,0 +1,35 @@
+# 🎻 Chamber Music Repertoire
+
+- Antonin Dvořák: Piano Quintet No. 2 in A Major, Op. 81
+- Antonin Dvořák: String Quartet No. 12 in F Major, Op. 96 "American"
+- Astor Piazzolla: Guitar Duo – Historie du Tango: Nightclub 1960
+- Astor Piazzolla: Guitar Duo – Oblivion
+- Astor Piazzolla: Piano Trio – Lieber Tango
+- Astor Piazzolla: Piano Trio – Oblivion
+- Astor Piazzolla: Piano Trio – The Four Seasons
+- Bohuslav Martinů: Oboe Quartet, H.315
+- Claude Debussy: Piano Trio
+- C.M. Weber: Flute Trio in G Minor, Op. 63
+- Dmitri Shostakovich: Piano Trio No. 2 in E Minor, Op. 67
+- Dmitri Shostakovich: String Quartet No. 3
+- Fanny Mendelssohn: String Quartet in E♭ Major
+- Franz Schubert: Piano Quintet “Forellenquintett” D.667, Op. 114
+- Franz Schubert: Piano Trio in E♭ Major – Allegro
+- Gabriel Fauré: Chanson Madecasses
+- Johannes Brahms: Piano Trio No. 1 in B Major, Op. 8
+- Joseph Haydn: Piano Trio No. 44
+- Joseph Haydn: String Quartet in G Major, Op. 77 No. 1
+- JS Bach: Brandenburg Concerto No. 3, BWV 1048
+- Ludwig van Beethoven: Clarinet Trio in B♭ Major, Op. 11
+- Max Bruch: Clarinet Trio, Op. 8
+- Mendelssohn: Octet in E♭ Major, Op. 20 – First Cello
+- Mikhail Glinka: Clarinet Trio “Pathetique”
+- Maurice Ravel: Chanson Madecasses
+- Robert Muczynski: Clarinet Fantasy Trio, Op. 26
+- Robert Schumann: Andante and Variations, Op. 46 (for 2 cellos)
+- Robert Schumann: Piano Quintet in E♭ Major, Op. 44
+- Soo Jin Kim-B: "Rossette" Piano Quartet
+- Wolfgang Amadeus Mozart: Flute Quartet in D Major, K.285
+- Wolfgang Amadeus Mozart: Piano Quartet in G Minor, K.478
+- Yuki Mori: "Stairway in Heaven" – Piano Quartet
+
